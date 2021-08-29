@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"A2Dborm\\": "src/"}
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

@@ -1,0 +1,6 @@
+db/*
+html/vendor/*
+html/composer.phar
+.DS_Store
+html/composer.lock
+html/installer.php

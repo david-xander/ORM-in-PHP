@@ -1,0 +1,20 @@
+# A2FRAMEWORK VERSION
+a2framework_version: v.2018.a.6
+
+# SITE
+a2framework_siteurl: mysite.com
+
+# DATABASE SUPPORT
+a2framework_bbdd: true
+
+# DATABASE OBJECT MAPPING A2DBORM
+a2framework_a2dorm: true
+a2framework_a2dorm_folder: /database/
+
+# SMARTY Debug Console
+a2framework_smarty_debug: false
+
+# SMARTY CACHING: See (Smarty v.3.0) http://www.smarty.net/docs/en/caching.tpl#caching.setting.up
+a2framework_smarty_caching: false
+a2framework_smarty_cacheLifeTime: 3600
+a2framework_smarty_compileCheck: false
